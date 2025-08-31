@@ -1,0 +1,6 @@
+The Document Summarizer is an intelligent tool designed to automatically generate concise summaries of lengthy documents, making information consumption faster and more efficient. It is particularly useful for students, researchers, and professionals who often deal with large volumes of text. Instead of manually reading through entire reports, articles, or papers, users can rely on the summarizer to highlight the most important points and present them in a clear and structured format.
+
+This summarizer leverages natural language processing (NLP) techniques to understand the context, extract key ideas, and remove redundant or less important details. The goal is to retain the original meaning of the document while significantly reducing its length. Users can input text or upload documents, and within seconds, the tool produces a summary that is easy to read and comprehend.
+
+By integrating features like customizable summary length and multiple language support, the document summarizer caters to different user needs. It not only saves time but also improves productivity by enabling quick decision-making based on essential insights. Whether for academic study, business reports, or casual reading, this summarizer ensures that users get the core message without the burden of excessive reading.
+
